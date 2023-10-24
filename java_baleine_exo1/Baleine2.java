@@ -39,7 +39,7 @@ public class Baleine2 {
         this.taille = taille;
     }
 
-    // Getter pour l'attribut 'poids'
+// Getter pour l'attribut 'poids'
     public double getPoids() {
         return poids;
     }
